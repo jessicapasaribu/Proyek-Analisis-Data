@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Muat data
-customers = pd.read_csv('dashboard/customers_dataset.csv')
-order_payments = pd.read_csv('dashboard/order_payments_dataset.csv')
+customers = pd.read_csv('submission/dashboard/customers_dataset.csv')
+order_payments = pd.read_csv('submission/dashboard/order_payments_dataset.csv')
 
 
 
