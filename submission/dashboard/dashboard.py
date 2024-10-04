@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Muat data
-customers = pd.read_csv('customers_dataset.csv')  
+customers = pd.read_csv('customers_dataset.csv')
 order_payments = pd.read_csv('order_payments_dataset.csv') 
 
 # Judul Dashboard
