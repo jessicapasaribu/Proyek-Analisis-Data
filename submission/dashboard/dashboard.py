@@ -7,7 +7,8 @@ import seaborn as sns
 
 # Muat data
 customers = pd.read_csv('customers_dataset.csv')
-order_payments = pd.read_csv('order_payments_dataset.csv') 
+order_payments = pd.read_csv('order_payments_dataset.csv')
+
 
 # Judul Dashboard
 st.title('Dashboard Analisis Data Pelanggan')
